@@ -4,7 +4,7 @@ A passionate **Data Scientist** focused on building intelligent systems, predict
 
 ---
 
-### 🛠️ Core Technologies & Skills
+###  Core Technologies & Skills
 
 - **Programming:** Python (Advanced), SQL (PostgreSQL, MySQL), C/C++ (High-Performance Computing)
 - **Machine Learning & AI:** Scikit-Learn, Predictive Modeling, Feature Engineering, Supervised/Unsupervised Learning
@@ -14,14 +14,14 @@ A passionate **Data Scientist** focused on building intelligent systems, predict
 
 ---
 
-### 🧠 Featured Data Science Projects
+###  Featured Data Science Projects
 
-#### 🔹 Project 1: Predictive Modeling & Machine Learning Pipeline
+####  Project 1: Predictive Modeling & Machine Learning Pipeline
 - **Description:** Developed an end-to-end machine learning model to predict user behavior/trends based on historical data. Implemented advanced feature engineering and hyperparameter tuning to optimize accuracy.
 - **Tech Stack:** Python (Scikit-Learn, Pandas, NumPy), Advanced SQL.
 - **Impact:** Achieved a high-accuracy predictive mechanism that assists in proactive strategic planning.
 
-#### 🔹 Project 2: Intelligent Data Mining & Automation Tool
+####  Project 2: Intelligent Data Mining & Automation Tool
 - **Description:** Engineered an automated data pipeline using Python and SQL window functions to clean, aggregate, and process complex relational datasets for predictive readiness.
 - **Tech Stack:** Python, PostgreSQL.
 
@@ -35,8 +35,8 @@ A passionate **Data Scientist** focused on building intelligent systems, predict
 
 ---
 
-### 🤝 Let's Connect!
+###  Let's Connect
 
-- 💼 **LinkedIn:** [Your Profile Link]
-- 📧 **Email:** [abdo.with.you@gmail.com]
-- 📓 **Kaggle:** [Your Kaggle Profile Link]
+-  **LinkedIn:** [Your Profile Link]
+-  **Email:** [abdo.with.you@gmail.com]
+-  **Kaggle:** [Your Kaggle Profile Link]
