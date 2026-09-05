@@ -5,10 +5,10 @@ A passionate **Data Scientist** focused on turning raw data into clear, actionab
 ---
 
 ### Core Technologies & Skills
-- **Programming:** Python, SQL, C/C++
-- **Data Analysis:** Pandas, NumPy, CSV data processing & cleaning
-- **Machine Learning:** Scikit-Learn, Predictive Modeling, Feature Engineering
-- **Environment:** Google Colab, Jupyter Notebooks
+- **Programming:** Python, SQL, R
+- **Data Analysis:** Pandas, NumPy, Matplotlib, R
+- **Machine Learning:** Scikit-Learn 
+- **Environment:** vs code Google Colab, Jupyter Notebooks
 - **Tools & Workflow:** Git, GitHub
 
 ---
