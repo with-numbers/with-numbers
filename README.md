@@ -1,4 +1,4 @@
-# every thing is numbers , I'm a Data Scientist
+# 01001000 01100101 01101100 01101100 01101111
 
 A passionate **Data Scientist** focused on turning raw data into clear, actionable insights. Building a strong foundation in Python and SQL to explore datasets, uncover patterns, and support data-driven decisions.
 
